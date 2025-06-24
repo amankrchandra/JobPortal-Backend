@@ -28,28 +28,4 @@ Then:
 
 ```bash
 ./mvnw spring-boot:run
-📁 Project Structure
-css
-Copy
-Edit
-src/
- └── main/
-     ├── java/com/zidio/jobportal/
-     │   ├── controller/
-     │   ├── model/
-     │   ├── repository/
-     │   ├── security/
-     │   └── ...
-     └── resources/
-         └── application.properties
-🙏 Acknowledgements
-Special thanks to:
 
-Spring Boot & Spring Security teams
-
-OpenAI ChatGPT for backend guidance
-
-✨ Author
-Aman Kumar Chandra
-
-LinkedIn • GitHub
