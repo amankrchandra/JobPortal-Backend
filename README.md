@@ -1,4 +1,4 @@
-# Job Portal Backend
+# Job Portal Backend (But it is not suitable and working for zidio-frontend, for this(zidio-frontend) gonna be upload new backend.)
 
 This is the backend service for the **Zidio Job Portal**, built using **Spring Boot**, **Spring Security**, **JWT**, and **MySQL**.
 
